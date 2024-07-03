@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi! i'm Boby, i'm from master
 
+=======
+Hi! I'm Bobby. I'm form Boby Branch
+>>>>>>> Boby
 change Bob
