@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-change_alice    
+change_alice1
+change_alice2
+change_alice3
